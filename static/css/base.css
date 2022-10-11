@@ -1,0 +1,59 @@
+body{
+	background-color: hsl(0, 0%, 100%);
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1,h2,h3,h4,h5,h6{
+	color:hsl(0, 0%, 30%);
+}
+
+
+.form-field{
+	width:250px;
+	display: inline-block;
+	padding: 5px;
+}
+
+.product-form-field{
+	width: 250px;
+	display: inline-block;
+	padding: 5px;
+}
+
+.quantity-one{
+	display: inline-block;
+	font-weight:700;
+	margin-bottom: 5px;
+	justify-content: center;
+}
+
+
+.search-bar{
+	text-align: center;
+	padding: 10px;
+	margin-left: 220px;
+	margin-right: 220px;
+}
+
+.search-button{
+	height: 40px;
+	width: 80px;
+}
+
+.btnSubmit {
+	border: none;
+	border-radius: 1.5rem;
+	padding: 1%;
+	width: 20%;
+	cursor: pointer;
+	background: #0062cc;
+	color: #fff;
+  }
+
+.form-content {
+	padding: 5%;
+	border: 1px solid #ced4da;
+	margin-bottom: 2%;
+}
+
+
